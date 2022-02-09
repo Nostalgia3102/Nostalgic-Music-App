@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sour\'s Music App</string>
+    <string name="list_of_mp3_files_on_your_device">List of .MP3 files on your Device</string>
+    <string name="about_section">About Section</string>
+</resources>
